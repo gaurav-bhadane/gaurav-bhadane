@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bhadane</h1>
 <h3 align="center">| Student & Learner heading towards Programming and Development | Web Dev | Data Analyst | Blockchain Enthusiast |</h3>
 
-<img src="header.png" alt="">
+<img src="Header.png" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-bhadane&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-bhadane" /> </p>
 
