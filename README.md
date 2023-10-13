@@ -1,5 +1,5 @@
 <img src="Header.png" alt="Background">
-<h1 align="center">Hey Hi 👋, I'm Gaurav Bhadane</h1>
+<h1 align="center">Hey Hi 👋, This is Gaurav Bhadane</h1>
 <h3 align="center">| Student & Learner heading towards Programming and Development | Web Dev | Data Analyst | AI/ML & Blockchain Enthusiast |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-bhadane&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-bhadane" /> </p>
