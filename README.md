@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gauravpbhadane2304@gmail.com**
 
-- ⚡ Fun fact **Willing to do the Best I can**
+- ⚡ Fun fact **Optimizing to do the Best I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
