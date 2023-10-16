@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and Web Dev**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** & **GCP**
 
 - 📫 How to reach me **gauravpbhadane2304@gmail.com**
 
