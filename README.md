@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravbhadane23" target="blank"><img src="https://img.shields.io/twitter/follow/gauravbhadane23?logo=twitter&style=for-the-badge" alt="gauravbhadane23" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics, Web Dev & ML**
+- 🔭 I’m currently working on **Data Analytics, Web Dev, CP & ML**
 
 - 🌱 I’m currently learning **React.js**, **GCP** & **Machine Learning**
 
