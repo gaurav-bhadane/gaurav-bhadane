@@ -1,6 +1,6 @@
 <img src="Header.png" alt="Background">
 <h1 align="center">Hey Hi 👋, This is Gaurav P Bhadane</h1>
-<h3 align="center">| Student & Learner heading towards Innovative Development | Web Dev | Data Science | Data Analytics | Generative AI | AI/ML CP & CP Enthusiast |</h3>
+<h3 align="center">| Student & Learner heading towards Innovative Development | Web Dev | Data Science | Data Analytics | Generative AI | AI/ML & CP Enthusiast |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-bhadane&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-bhadane" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-bhadane" alt="gaurav-bhadane" /></a> </p>
